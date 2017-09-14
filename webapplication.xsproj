@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+   <AppName>webapplication</AppName>
+   <AppVersion>1.0.0.0</AppVersion>
+   <ConfigBuild>Debug</ConfigBuild>
+   <ConfigCPU>x86</ConfigCPU>
+   <ConfigFRAMEWORK>.NET Framework 4.6</ConfigFRAMEWORK>
+   <ConfigENGINE>Subatomic</ConfigENGINE>
+   <EnvironmentName>Xylon Studio</EnvironmentName>
+   <EnvironmentVersion>0.2.14</EnvironmentVersion>
+   <String>windows.webapplication.app_title</String>
+   <Output>\bin\x86\Debug</Output>
+</Properties>
