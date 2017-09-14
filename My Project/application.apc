@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <Executable>webapplication.exe</Executable>
+    <Startup ui="" type="Local">\app\index.php</Startup>
+    <Identifier>windows.webapplication.app_title</Identifier>
+</project>
