@@ -6,7 +6,11 @@ A C Modulus PHP Web Application example
 2. Visual Studio Code
 3. Xampp or WampServer
 
-Note: "<cmodulus require="seshaUI.web"/>" is ignored in Xylon Studio, use the "Developer Command Prompt for Xylon Studio" instead. 
+Note: 
+```
+<cmodulus require="seshaUI.web"/>
+``` 
+is ignored in Xylon Studio, use the "Developer Command Prompt for Xylon Studio" instead. 
 
 Launch the Developer Command Prompt for Xylon Studio
 
