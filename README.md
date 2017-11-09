@@ -2,7 +2,7 @@
 A C Modulus PHP Web Application example
 
 ## Requirements
-1. Xylon Studio 0.2.16 (Not released yet)
+1. Xylon Studio 0.2.16
 2. Visual Studio Code
 3. Xampp or WampServer
 
