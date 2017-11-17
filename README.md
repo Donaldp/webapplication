@@ -6,11 +6,6 @@ A C Modulus PHP Web Application example
 2. Visual Studio Code
 3. Xampp or WampServer
 
-Note: 
-```
-<cmodulus require="seshaUI.web"/>
-```
-
 Launch the Developer Command Prompt for Xylon Studio
 
 Mount 
