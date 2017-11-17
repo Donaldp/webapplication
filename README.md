@@ -9,8 +9,7 @@ A C Modulus PHP Web Application example
 Note: 
 ```
 <cmodulus require="seshaUI.web"/>
-``` 
-is ignored in Xylon Studio, use the "Developer Command Prompt for Xylon Studio" instead. 
+```
 
 Launch the Developer Command Prompt for Xylon Studio
 
