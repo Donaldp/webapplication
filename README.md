@@ -1,5 +1,5 @@
 # Web Application
-A C Modulus PHP Web Application example
+A C Modulus PHP Web Application example (not to be confused with modulusPHP)
 
 ## Requirements
 1. Xylon Studio 0.2.16
